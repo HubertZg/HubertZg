@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HubertZg
-- 👀 I’m interested in UI/UX /testing / 3d modeling / programming
+- 👀 I’m interested in UI/UX /testing / 3d modeling / programming / marketing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on every ambitious project
 - ⚡ Fun fact: ..I mix marketing with Python for fun and growth! 😄
